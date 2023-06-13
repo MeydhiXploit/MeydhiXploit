@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning <strong>Codeigniter,Kotlin,JS</strong>
 <h3 align="left">Android studio language kotlin</h3>
 <div align="left">
-    <a href='https://postimg.cc/XBg9d57p' target='_blank'><img src='https://i.postimg.cc/XBg9d57p/Screenshot-189.png' border='0' alt='Screenshot-189'/></a>
+    <a href='https://postimg.cc/XBg9d57p' target='_blank'><img src='https://i.postimg.cc/XBg9d57p/Screenshot-189.png' width="600px" alt='Screenshot-189'/></a>
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
