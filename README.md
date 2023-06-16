@@ -19,5 +19,4 @@
 
 [![Saweria](https://zaadevofc.xyz/_next/image?url=%2Fmedsos%2Fsaweria.png&w=48&q=75)](https://saweria.co/Meydhi)
 
-[![PayPal](https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-medium.png)](https://www.paypal.me/meydhi)
-
+[![Donasi](https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-medium.png)](https://www.paypal.me/Meydhi)
