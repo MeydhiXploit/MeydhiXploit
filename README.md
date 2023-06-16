@@ -19,7 +19,11 @@
 
 [![Saweria](https://zaadevofc.xyz/_next/image?url=%2Fmedsos%2Fsaweria.png&w=48&q=75)](https://saweria.co/Meydhi)
 
-[![Donasi](https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-medium.png)](https://www.paypal.me/Meydhi)
+<div align="center">
+  <a href="https://www.paypal.me/Meydhi" target="_blank">
+    <img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-medium.png" alt="Donasi">
+  </a>
+</div><br>
 
 <div align="center">
     <a href="https://trakteer.id/meydhi%20ari%20nugroho/tip?open=true" target="_blank">
