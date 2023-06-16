@@ -21,5 +21,8 @@
 
 [![Donasi](https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-medium.png)](https://www.paypal.me/Meydhi)
 
-[<img src="https://button.ibnux.net/trakteer/ibnux.png" width="128">](https://trakteer.id/meydhi ari nugroho/tip?open=true)
+<a href="https://trakteer.id/meydhi%20ari%20nugroho/tip?open=true" target="_blank">
+  <img src="https://button.ibnux.net/trakteer/ibnux.png" width="128">
+</a>
+
 
