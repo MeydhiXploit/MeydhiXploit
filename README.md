@@ -32,10 +32,9 @@
     <img src="https://zaadevofc.xyz/_next/image?url=%2Fmedsos%2Fsaweria.png&w=48&q=75" alt="Saweria">
   </a>
 </div><br>
-
 <div align="center">
-  <a href="https://www.paypal.me/Meydhi" target="_blank">
-    <img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-medium.png" alt="Donasi">
+  <a href="https://www.paypal.me/meydhi">
+    <img src="https://img.shields.io/badge/paypal-MEYDHI-gold?style=for-the-badge&logo=PayPal" alt="Donate">
   </a>
 </div><br>
 
