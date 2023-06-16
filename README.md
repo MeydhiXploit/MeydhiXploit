@@ -20,3 +20,6 @@
 [![Saweria](https://zaadevofc.xyz/_next/image?url=%2Fmedsos%2Fsaweria.png&w=48&q=75)](https://saweria.co/Meydhi)
 
 [![Donasi](https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-medium.png)](https://www.paypal.me/Meydhi)
+
+[<img src="https://button.ibnux.net/trakteer/ibnux.png" width="128">](https://trakteer.id/meydhi%20ari%20nugroho)
+
