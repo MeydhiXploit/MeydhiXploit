@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meydhi Ari Nugroho</h1>
 <h3 align="center">programmer NTB indonesia</h3>
-<h3 align="center">Essexx</h3>
-
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
