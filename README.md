@@ -4,6 +4,6 @@
 <p align="center">https://dulcet-caramel-1022e8.netlify.app/</p>
 <br>
 <h2 align="center">PROJECT FLUTTER</h2>
--><p>https://animated-biscochitos-a1eb38.netlify.app/</p>
--><p>https://silver-figolla-4311de.netlify.app/</p>
--><p>https://melodious-tapioca-6c516d.netlify.app/</p>
+->Spin Mahasiswa<p>https://animated-biscochitos-a1eb38.netlify.app/</p>
+->Generator Kursi acak Mahasiswa Berdasarkan Kelas<p>https://silver-figolla-4311de.netlify.app/</p>
+->Generator Kursi acak Mahasiswa Berdasarkan Individu<p>https://melodious-tapioca-6c516d.netlify.app/</p>
