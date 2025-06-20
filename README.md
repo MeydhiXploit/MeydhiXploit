@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meydhi Ari Nugroho</h1>
 <h3 align="center">programmer NTB indonesia</h3>
 <br>
-<h1 align="center">MY PORTOFOLIO</h1>
+MY PORTOFOLIO
 <p align="center">https://dulcet-caramel-1022e8.netlify.app/</p>
 <br>
 <h2 align="center">PROJECT FLUTTER</h2>
