@@ -2,8 +2,4 @@
 <h3 align="center">programmer NTB indonesia</h3>
 <br>
 
-<a
-          href="[index.html#projects](https://dulcet-caramel-1022e8.netlify.app/)"
-          class="block nav-link text-center text-base py-3 hover:bg-gray-100 rounded-lg"
-          >MyPortofolio</a
-        >
+<ahref="https://dulcet-caramel-1022e8.netlify.app/"class="block nav-link text-center text-base py-3 hover:bg-gray-100 rounded-lg">MyPortofolio</a>
