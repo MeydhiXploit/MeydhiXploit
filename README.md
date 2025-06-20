@@ -7,3 +7,4 @@
 ->Spin Mahasiswa<p>https://animated-biscochitos-a1eb38.netlify.app/</p>
 ->Generator Kursi acak Mahasiswa Berdasarkan Kelas<p>https://silver-figolla-4311de.netlify.app/</p>
 ->Generator Kursi acak Mahasiswa Berdasarkan Individu<p>https://melodious-tapioca-6c516d.netlify.app/</p>
+->Generator Kode Soal Ujian Mahasiswa<p>https://moonlit-pasca-88ae13.netlify.app/</p>
