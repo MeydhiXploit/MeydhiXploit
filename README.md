@@ -1,4 +1,4 @@
-# Hi 👋, I'm Meydhi Ari Nugroho
+<h2 align="center">Hi 👋, I'm Meydhi Ari Nugroho</h2>
 
 <h3 align="center">A programmer from NTB, Indonesia.</h3>
 
@@ -20,6 +20,7 @@ Here are a few of my projects:
   <tr>
     <td width="50%" valign="top">
       <h3>Spin Mahasiswa</h3>
+
       <p>Aplikasi web untuk memilih mahasiswa secara acak menggunakan roda putar.</p>
       <a href="https://animated-biscochitos-a1eb38.netlify.app/" target="_blank">Lihat Proyek</a>
     </td>
