@@ -20,7 +20,6 @@ Here are a few of my projects:
   <tr>
     <td width="50%" valign="top">
       <h3>Spin Mahasiswa</h3>
-
       <p>Aplikasi web untuk memilih mahasiswa secara acak menggunakan roda putar.</p>
       <a href="https://animated-biscochitos-a1eb38.netlify.app/" target="_blank">Lihat Proyek</a>
     </td>
@@ -41,7 +40,7 @@ Here are a few of my projects:
       <a href="https://melodious-tapioca-6c516d.netlify.app/" target="_blank">Lihat Proyek</a>
     </td>
   </tr>
-    <tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>Generator Kode Soal Ujian</h3>
       <p>Aplikasi untuk membuat kode soal ujian yang unik bagi setiap mahasiswa.</p>
