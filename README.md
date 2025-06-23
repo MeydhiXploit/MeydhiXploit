@@ -1,11 +1,54 @@
-<h1 align="center">Hi 👋, I'm Meydhi Ari Nugroho</h1>
-<h3 align="center">programmer NTB indonesia</h3>
+# Hi 👋, I'm Meydhi Ari Nugroho
+
+<h3 align="center">A programmer from NTB, Indonesia.</h3>
+
 <br>
-<p align="center">MY PORTOFOLIO</p>
-<p align="center">https://dulcet-caramel-1022e8.netlify.app/</p>
+
+<p align="center">
+  <a href="https://dulcet-caramel-1022e8.netlify.app/" target="_blank">
+    <strong>MY PORTFOLIO</strong>
+  </a>
+</p>
+
 <br>
-<h2 align="center">PROJECT FLUTTER</h2>
-->Spin Mahasiswa<p>https://animated-biscochitos-a1eb38.netlify.app/</p>
-->Generator Kursi acak Mahasiswa Berdasarkan Kelas<p>https://silver-figolla-4311de.netlify.app/</p>
-->Generator Kursi acak Mahasiswa Berdasarkan Individu<p>https://melodious-tapioca-6c516d.netlify.app/</p>
-->Generator Kode Soal Ujian Mahasiswa<p>https://moonlit-pasca-88ae13.netlify.app/</p>
+
+## 🚀 Projects
+
+Here are a few of my projects:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Spin Mahasiswa</h3>
+      <p>Aplikasi web untuk memilih mahasiswa secara acak menggunakan roda putar.</p>
+      <a href="https://animated-biscochitos-a1eb38.netlify.app/" target="_blank">Lihat Proyek</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Proyek Baru (Segera Hadir)</h3>
+      <p>Deskripsi untuk proyek baru Anda akan ditempatkan di sini nanti.</p>
+      </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Generator Kursi Acak (Kelas)</h3>
+      <p>Alat untuk menghasilkan denah tempat duduk acak untuk seluruh kelas.</p>
+      <a href="https://silver-figolla-4311de.netlify.app/" target="_blank">Lihat Proyek</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Generator Kursi Acak (Individu)</h3>
+      <p>Sebuah generator untuk menentukan kursi acak bagi setiap mahasiswa secara perorangan.</p>
+      <a href="https://melodious-tapioca-6c516d.netlify.app/" target="_blank">Lihat Proyek</a>
+    </td>
+  </tr>
+    <tr>
+    <td width="50%" valign="top">
+      <h3>Generator Kode Soal Ujian</h3>
+      <p>Aplikasi untuk membuat kode soal ujian yang unik bagi setiap mahasiswa.</p>
+      <a href="https://moonlit-pasca-88ae13.netlify.app/" target="_blank">Lihat Proyek</a>
+    </td>
+    <td width="50%" valign="top">
+      </td>
+  </tr>
+</table>
+
+<br>
