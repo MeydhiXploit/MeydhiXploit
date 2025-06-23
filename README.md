@@ -20,12 +20,13 @@ Here are a few of my projects:
   <tr>
     <td width="50%" valign="top">
       <h3>Spin Mahasiswa</h3>
-      <p>Aplikasi web untuk memilih mahasiswa secara acak menggunakan roda putar.</p>
+      <p>
+Aplikasi web untuk memilih mahasiswa secara acak menggunakan roda putar.</p>
       <a href="https://animated-biscochitos-a1eb38.netlify.app/" target="_blank">Lihat Proyek</a>
     </td>
     <td width="50%" valign="top">
-      <h3>Proyek Baru (Segera Hadir)</h3>
-      <p>Deskripsi untuk proyek baru Anda akan ditempatkan di sini nanti.</p>
+      <h3>Penghapus dan Pengganti Background Warna</h3>
+      <p>Alat untuk menghapus atau mengganti sebuah background warna pada foto</p>
       </td>
   </tr>
   <tr>
