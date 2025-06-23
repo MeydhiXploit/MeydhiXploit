@@ -27,7 +27,7 @@ Aplikasi web untuk memilih mahasiswa secara acak menggunakan roda putar.</p>
     <td width="50%" valign="top">
       <h3>Penghapus dan Pengganti Background Warna</h3>
       <p>Alat untuk menghapus atau mengganti sebuah background warna pada foto</p>
-      <a href="https://animated-biscochitos-a1eb38.netlify.app/" target="_blank">Lihat Proyek</a>
+      <a href="https://cosmic-sunflower-144834.netlify.app/" target="_blank">Lihat Proyek</a>
     </td>
   </tr>
   <tr>
