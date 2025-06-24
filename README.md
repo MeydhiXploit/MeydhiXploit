@@ -50,9 +50,9 @@ Aplikasi web untuk memilih mahasiswa secara acak menggunakan roda putar.</p>
       <a href="https://moonlit-pasca-88ae13.netlify.app/" target="_blank">Lihat Proyek</a>
     </td>
     <td width="50%" valign="top">
-      <h3>Comingson</h3>
-      <p>Segera hadir project ini</p>
-      <a href="" target="_blank">Proyek Comingson</a>
+      <h3>Aplikasi Pengubah Foto Menjadi Anime</h3>
+      <p>Aplikasi ini memngubah sebuah foto menjadi anime</p>
+      <a href="https://magical-babka-4e992e.netlify.app/" target="_blank">Lihat Proyek</a>
     </td>
   </tr>
 </table>
