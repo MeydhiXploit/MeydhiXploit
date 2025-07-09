@@ -35,12 +35,12 @@ Aplikasi web untuk memilih mahasiswa secara acak menggunakan roda putar.</p>
     <td width="50%" valign="top">
       <h3>Generator Kursi Acak (Kelas)</h3>
       <p>Alat untuk menghasilkan denah tempat duduk acak untuk seluruh kelas.</p>
-      <a href="https://silver-figolla-4311de.netlify.app/" target="_blank">Lihat Proyek</a>
+      <a href="https://melodious-tapioca-6c516d.netlify.app/" target="_blank">Lihat Proyek</a>
     </td>
     <td width="50%" valign="top">
       <h3>Generator Kursi Acak (Individu)</h3>
       <p>Sebuah generator untuk menentukan kursi acak bagi setiap mahasiswa secara perorangan.</p>
-      <a href="https://melodious-tapioca-6c516d.netlify.app/" target="_blank">Lihat Proyek</a>
+      <a href="https://silver-figolla-4311de.netlify.app/" target="_blank">Lihat Proyek</a>
     </td>
   </tr>
   <tr>
