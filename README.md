@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Meydhi Ari Nugroho</h2>
 
-<h3 align="center">A programmer from NTB, Indonesia.</h3>
+<h3 align="center">Indonesia</h3>
 
 <br>
 
