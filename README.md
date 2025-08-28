@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Meydhi Ari Nugroho</h2>
+<h2 align="center">Hello 👋, I'm Meydhi</h2>
 
 <h3 align="center">Indonesia</h3>
 
